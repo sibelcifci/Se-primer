@@ -1,0 +1,1 @@
+{"name":"pod-day","version":"1.0.0","scripts":{"serve":"npx http-server -p 8080","test":"cypress run"},"devDependencies":{"cypress":"^13.0.0"}}
