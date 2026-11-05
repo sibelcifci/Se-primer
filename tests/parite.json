@@ -1,0 +1,68 @@
+{
+  "ozellikler": [
+    "seviye",
+    "karar_no",
+    "onceki_yanlis_sayisi",
+    "ipucu_sayisi",
+    "ilk10sn_dokunma_sayisi",
+    "ilk10sn_tutor_soru_sayisi"
+  ],
+  "tolerans": 0.0001,
+  "olgular": [
+    {
+      "girdi": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "olasilik": 0.279740571975708
+    },
+    {
+      "girdi": [
+        0,
+        2,
+        1,
+        2,
+        3,
+        0
+      ],
+      "olasilik": 0.8342445492744446
+    },
+    {
+      "girdi": [
+        1,
+        2,
+        1,
+        0,
+        4,
+        0
+      ],
+      "olasilik": 0.8963680267333984
+    },
+    {
+      "girdi": [
+        2,
+        3,
+        2,
+        0,
+        6,
+        0
+      ],
+      "olasilik": 0.9850140810012817
+    },
+    {
+      "girdi": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "olasilik": 0.11119616031646729
+    }
+  ]
+}
