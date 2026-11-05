@@ -5,6 +5,7 @@ Hyperloop test gününde telemetri akışı kesilir. Oyuncu 3 teknik karar verir
 ## Linkler
 - Uygulama (AI Studio): [https://pod-day-telemetri-n-beti.ai.studio]
 - Demo video : []
+- GitHub repo: [https://github.com/sibelcifci/Se-primer/tree/hafta2]
 
 ## Repo içeriği
 - `spec.md`: problem, kapsam dışı, 5 kabul örneği, akış şeması
